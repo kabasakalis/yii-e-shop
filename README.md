@@ -3,7 +3,7 @@
  © 2013  [Spiros Kabasakalis](http://iws.kabasakalis.gr/)
  [The MIT License (MIT)]( http://opensource.org/licenses/MIT)
  
-### Basic e-Shop that will eventually be integrated with  [InfoWebSphere CMS](http://iws.kabasakalis.gr/)  
+### Basic e-Shop that will eventually be integated with  [InfoWebSphere CMS](http://iws.kabasakalis.gr/)  
 
 
 ---
@@ -13,7 +13,9 @@ No source code available yet.
 
 ---
 ## Demo 
-
+Please note that things can get messy on demo pages,since eveybody is administering the shop!
+For example if someone deletes products that someone ordered,don't expect to see the nested cart items in 
+ orders page.
 ### [Frontend](http://yiilab.kabasakalis.tk/shop/)
 
 ### [Backend](http://yiilab.kabasakalis.tk/shop/admin) 
